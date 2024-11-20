@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "perros.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "05d20bb5-f64d-4cbe-a607-149bed3d7f7f_16-9-discover-aspect-ratio_default_0.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "mascotas-preferidas-espanoles.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
